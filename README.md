@@ -38,7 +38,7 @@ NOVA는 단순한 토큰이 아닌, 새로운 감각의 기반입니다.
 
 ## 📃 백서 & 제안서
 
-- 📄 [Notion 백서 보기](https://www.notion.so/Company-Wiki-1c4f382f276680de97f0f7644a2cf4bd)
+- 📄 [Notion 백서 보기](https://www.notion.so/NOVA-2025-1c0f382f276680559231e9120972e31a)
 - 📑 PDF 제안서 (업데이트 예정)
 
 ---
