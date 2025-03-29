@@ -1,33 +1,54 @@
-# 🚀 NOVA Web3 DApp
+# 🌌 NOVA Web3 DApp
 
-AI, 메타버스, 현실을 연결하는 감각의 토큰 — NOVA
+"New minds. New worlds. NOVA."
 
-## 🌌 소개
+---
 
-NOVA는 인간과 디지털 사이의 감각을 설계하기 위해 만들어진 Web3 프로젝트입니다.  
-이제 우리는 "다가올 세상에 적응하기 위한 첫 번째 준비물"을 꺼내듭니다.
+## 📍 프로젝트 개요
+AI, 메타버스, 그리고 현실 세계를 연결하는  
+ERC-20 기반 Web3 DApp입니다.  
+NOVA는 단순한 토큰이 아닌, 새로운 감각의 기반입니다.
 
-## 🪐 배포 주소
-👉 [https://nova-station.vercel.app](https://nova-station.vercel.app)
+---
 
-## 📘 백서
-👉 [Notion 백서 보기](https://notion.so/...)
+## 🛠 기술 스택
 
-## 🧠 사용 기술
+- Solidity (ERC-20 / Vesting / Staking)
+- Remix IDE
+- React (create-react-app)
+- ethers.js v6
+- MetaMask
+- Vercel 배포
 
-- Solidity (ERC20 / Vesting / Staking)
-- React, TailwindCSS, ethers.js
-- 배포: Vercel
+---
 
-## 🔐 컨트랙트 주소
+## 🔐 주요 기능
 
-| 이름 | 주소 |
-|------|------|
-| NOVA Token | `0xb19503287BA909aa55b48B747fa363aa1dE5c9D0`  
-| Staking Contract | `0x1bFFEEBcbDc1b3D549ECECd130b1Ed1821F6bE23`
+- ✅ NOVA Token (ERC20)
+- 🔓 Vesting System (Cliff + Duration + Release)
+- 💎 Staking System (보유량 기준 리워드, 실시간 보상 표시)
 
-## 🙋‍♀️ Creator
+---
 
-조은비 (Eunbi Jo)  
-Web3 창작자 / 기획자 / 설계자  
-"기술보다 감각을 먼저 설계합니다."
+## 🚀 DApp 배포 링크
+
+- 🌐 [https://nova-station.vercel.app](https://nova-station.vercel.app)
+
+---
+
+## 📃 백서 & 제안서
+
+- 📄 [Notion 백서 보기](https://www.notion.so/Company-Wiki-1c4f382f276680de97f0f7644a2cf4bd)
+- 📑 PDF 제안서 (업데이트 예정)
+
+---
+
+## 🧠 커뮤니티
+
+- Discord: [https://discord.gg/Yy5Extyy](https://discord.gg/Yy5Extyy)
+
+---
+
+## 🤝 크리에이터
+
+- 조은비 (은비 Jo / @eunbiverse)
